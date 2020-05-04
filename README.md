@@ -5,7 +5,8 @@ Nombre de la aplicación: FutbolManiakos
 Nombre del alumno: Carlos Manuel Villar Méndez
 
 Sprint 1:	
-     Fecha: 19/04/2020	   
+   
+   Fecha: 19/04/2020	   
  
    Tareas realizadas: Creación de mockup
 

@@ -28,3 +28,15 @@ Tareas realizadas: Creación de Markdown y diagramas de clase y objetos
   Herramientas usadas: Stackedit & Lucidchart
   
   Bibliografía usada: https://stackedit.io/ & https://www.lucidchart.com/
+    ---------------------------------------------------------------------------------------
+Sprint 3:
+
+Fecha: 04/05/2020
+ 
+Tareas realizadas: Relacione y proyecto Java
+ 
+  Tiempo empleado: 3 horas 
+  
+  Herramientas usadas: Stackedit, Lucidchart & Eclipse
+  
+  Bibliografía usada: https://stackedit.io/ & https://www.lucidchart.com/

@@ -32,7 +32,7 @@ Tareas realizadas: Creación de Markdown y diagramas de clase y objetos
 ---------------------------------------------------------------------------------------
 Sprint 3:
 
-Fecha: 04/05/2020
+Fecha: 13/05/2020
  
 Tareas realizadas: Relacione y proyecto Java
  

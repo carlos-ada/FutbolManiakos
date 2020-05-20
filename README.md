@@ -28,7 +28,8 @@ Tareas realizadas: Creación de Markdown y diagramas de clase y objetos
   Herramientas usadas: Stackedit & Lucidchart
   
   Bibliografía usada: https://stackedit.io/ & https://www.lucidchart.com/
-    ---------------------------------------------------------------------------------------
+  
+---------------------------------------------------------------------------------------
 Sprint 3:
 
 Fecha: 04/05/2020

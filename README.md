@@ -54,5 +54,18 @@ Tareas realizadas: Creación de 2 Diagramas de uso
   Herramientas usadas: Stackedit & Lucidchart
   
   Bibliografía usada: https://stackedit.io/ & https://www.lucidchart.com/
+     
+---------------------------------------------------------------------------------------
+Sprint 5:
+
+Fecha: 27/05/2020
+ 
+Tareas realizadas: Creación de 2 Diagramas de actividades
+ 
+  Tiempo empleado: 1 hora y 30 minutos 
+  
+  Herramientas usadas: Stackedit & Lucidchart
+  
+  Bibliografía usada: https://stackedit.io/ & https://www.lucidchart.com/
 
 
